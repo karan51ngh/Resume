@@ -25,7 +25,7 @@ st.markdown(hide_menu_style, unsafe_allow_html=True)
 # st.sidebar.image('pics/Block-Estate.png')
 col1, col2 = st.columns(2)
 with col1:
-    image = Image.open('images\DP.png')
+    image = Image.open('images/DP.png')
     st.image(image)
 
 with col2:
