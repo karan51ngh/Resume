@@ -57,6 +57,7 @@ with col2:
 st.markdown("<h3>Social Media</h3>",
             unsafe_allow_html=True)
 
-txt2("LinkedIn", 'https://www.linkedin.com/in/karan51ngh')
-txt2('Twitter', 'https://twitter.com/karan51ngh_tw')
-txt2('GitHub', 'https://github.com/karan51ngh')
+txt2("LinkedIn",
+     '[LinkedIn/karan51ngh](https://www.linkedin.com/in/karan51ngh)')
+txt2('Twitter', '[Twitter/karan51ngh](https://twitter.com/karan51ngh_tw)')
+txt2('GitHub', '[Github/karan51ngh](https://github.com/karan51ngh)')
