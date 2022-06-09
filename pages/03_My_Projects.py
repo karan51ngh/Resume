@@ -28,8 +28,8 @@ st.markdown('''
 - Implemented a **Blockchain** in Python 
 - Implemented **Mining** and **Proof of Work** mechanism using the **SHA256** Hashing Algorithm
 - Hosted the blockchain on **streamlit cloud**
-- Hosted Link: https://share.streamlit.io/karan51ngh/plot-chain/main/landLedger.py
-- Repository Link: https://github.com/karan51ngh/Plot-Chain
+- Hosted Link: [Streamlit Cloud](https://share.streamlit.io/karan51ngh/plot-chain/main/landLedger.py)
+- Repository Link: [Github](https://github.com/karan51ngh/Plot-Chain)
 ***
 ''')
 txt('**Machine Learning Case Studies**',
@@ -38,5 +38,5 @@ st.markdown('''
 - Usage of various **Regression** Algorithms
 - Usage of various **Classification** Algorithms
 - Case Studies of Titanic Dataset and PUBG Dataset
-- Repository Link: https://github.com/karan51ngh/machineLearning
+- Repository Link: [Github](https://github.com/karan51ngh/machineLearning)
 ''')

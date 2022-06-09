@@ -34,13 +34,17 @@ txt('**Technical Member (voluntary), Google Developer Students Club (ASEB)**',
     '08/2021 – Present')
 st.markdown('''
 - Conducted a Seminar on **Economics of Bitcoin**.
+	- [Event Link](https://gdsc.community.dev/events/details/developer-student-clubs-amrita-school-of-engineering-bengaluru-presents-economics-of-bitcoin/)
 - Conducted a Hands-on **Linux** workshop.
+	- [Event Link](https://gdsc.community.dev/events/details/developer-student-clubs-amrita-school-of-engineering-bengaluru-presents-introduction-to-linux-for-programmers-1/)
 - Conducted a Hands-on **C++** workshop.
+	- [Event Link](https://gdsc.community.dev/events/details/developer-student-clubs-amrita-school-of-engineering-bengaluru-presents-introduction-to-c-session-1/)
 ***
 ''')
 txt('**Cryptocurrency Traader, Self Enployed**',
     '08/2021 – 10/2021')
 st.markdown('''
 - Made **profits** worth **$400** by trading **ERC-20** tokens
+	- [Link Of Transactions](https://blockscout.com/xdai/mainnet/address/0x05780eE7d7e45012A7C44f474cF610894E6f0d44/transactions)
 - Began trading with an initial amount of $0
 ''')
