@@ -1,3 +1,3 @@
 # Resume
 Hosted on Strwamlit CLoud
-Link: https://share.streamlit.io/karan51ngh/resume/main/Home.py
+Link: [streamlit.io/karan51ngh/Resume](https://share.streamlit.io/karan51ngh/resume/main/Home.py)
